@@ -27,3 +27,15 @@
 *.exe
 *.out
 *.app
+
+# Data
+/data/
+/code/run/
+
+
+# Other
+.idea/*
+from_dainfos.sh
+graph_to_dainfos.sh
+main_to_dainfos.sh
+rg_to_dainfos.sh
